@@ -1,2 +1,2 @@
 # E-MediCare
-E-MediCare
+Online Pharmacy
